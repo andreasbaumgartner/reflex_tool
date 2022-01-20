@@ -4,6 +4,14 @@ Reflex-Tool
 
 [![Built with Cookiecutter Django](https://img.shields.io/badge/built%20with-Cookiecutter%20Django-ff69b4.svg?logo=cookiecutter)](https://github.com/cookiecutter/cookiecutter-django/)
 [![Black code style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
+### Todo (before Start "ödi" 🌴)
+
+* Add Stripe https://pypi.org/project/stripe-django/
+* Add .env for connections database..
+* Start development 😀
+  
+
+
 
 ## Settings
 
@@ -50,3 +58,7 @@ The following details how to deploy this application.
 ### Docker
 
 See detailed [cookiecutter-django Docker documentation](http://cookiecutter-django.readthedocs.io/en/latest/deployment-with-docker.html).
+
+
+
+
