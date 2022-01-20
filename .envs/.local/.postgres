@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=reflex_tool
+POSTGRES_USER=iCVwYJyyLJcVFLhAuKJZiQfjWPBXhCvm
+POSTGRES_PASSWORD=8rKyfqX8XkuMerZrllufHXzLcfD2gHArk4lwH0WJRaVjRV9AdRc4Peenz95B8qqF
